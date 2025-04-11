@@ -1,0 +1,17 @@
+
+
+Prisma ist für das verbinden mit der db 
+wichtige commands: 
+
+npx prisma generate 
+npx prisma db push 
+npx prisma db pull 
+
+
+Wenn du die App starten möchtest etc. 
+in den app ordner gehen 
+npm i 
+npm run dev
+npm run build 
+npm run start 
+
